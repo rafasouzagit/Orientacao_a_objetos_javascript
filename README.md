@@ -11,7 +11,7 @@
 <p>- Encapsulamento: Cada classe tem propriedades e métodos independentes do restante do código</p>
 <p>- Abstração: Processo mental que consiste em isolar um aspecto determinado de um estado de coisas relativamente complexo, a fim de simplificar a sua avaliação, classificação ou para permitir a comunicação do mesmo</p>
 <br>
-<h2>OOJS<h2>
+<h2>OOJS</h2>
 <p>Todods os objetos Javascript herdam propriedades e métodos de um prototype</p>
 <p>O objeto Object.prototype esta no topo da cadeia</p>
 <h2>Classes</h2>
